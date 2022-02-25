@@ -8,4 +8,4 @@
 - [Axios](https://github.com/Adamskoullos/Axios-Patterns)
 - [JavaScript Functional Programming](https://github.com/Adamskoullos/JavaScript-Functional-Programming)
 - [JavaScript OOP](https://github.com/Adamskoullos/JavaScript-OOP)
-
+- [JavaScript Nuts and Bolts](https://github.com/Adamskoullos/es6-dom-patterns)
