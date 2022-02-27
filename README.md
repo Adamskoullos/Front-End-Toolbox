@@ -10,4 +10,5 @@
 - [JavaScript OOP](https://github.com/Adamskoullos/JavaScript-OOP)
 - [JavaScript Nuts and Bolts](https://github.com/Adamskoullos/es6-dom-patterns)
 - [Design Patterns](https://github.com/Adamskoullos/design-patterns)
+- [Methods](https://github.com/Adamskoullos/Coding-Dojo/blob/master/functional/methods.md)
 - [JavaScript Release Notes](https://github.com/Adamskoullos/es6-dom-patterns/blob/main/notes/js-releases.md)
