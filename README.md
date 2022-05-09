@@ -14,3 +14,4 @@
 - [Methods](https://github.com/Adamskoullos/Coding-Dojo/blob/master/functional/methods.md)
 - [JavaScript Release Notes](https://github.com/Adamskoullos/es6-dom-patterns/blob/main/notes/js-releases.md)
 - [CSS](https://github.com/Adamskoullos/css)
+- [Git Patterns](https://github.com/Adamskoullos/git)
